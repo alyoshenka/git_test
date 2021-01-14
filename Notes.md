@@ -12,3 +12,9 @@
 - a/**/z : nested directories
 
 ## git diff shows only unstaged changes
+## be sure to use `git rm` instead of `rm` to remove files
+###	use `--cached` to remove from staging area
+
+## `git log`: see commit history
+	- `-p`: changes
+	- `-{num}`: most recent {num} entries
