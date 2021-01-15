@@ -32,3 +32,5 @@
 ### `git reset HEAD file.name`: unstage file.name
 ### `git restore --staged file.name`: ^
 ### `git remote add <shortname> <url>`: add new remote git repository
+### `git pull`: fetch + merge
+### `git push <remote> <branch>`
