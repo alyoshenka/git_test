@@ -7,7 +7,7 @@ but your new commit won’t belong to any branch and will be unreachable, except
 commit hash. Thus, if you need to make changes — say you’re fixing a bug on an older version, for
 instance — you will generally want to create a branch
 
-*Do not rebace sommits that exist outside your reposityry and that people may have based work on*
+*Do not rebase commits that exist outside your reposityry and that people may have based work on*
 
 Rebasing replays changes from one line of woek onto another in the order they were introduced, whereas merging rakes the endpoints and merges them together
 
