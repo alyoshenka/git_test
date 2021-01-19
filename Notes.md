@@ -64,13 +64,13 @@ git diff shows only unstaged changes
 - `lightweight`: just a pointer to a specific commit
 - `annotated`: full object, checksummed, contains tagger info
 
-`git tag -a {version #} -m "tag annotation"
+`git tag -a {version #} -m "tag annotation"`
 
 `git show {version #}`: view tag data
 
 `git push origin <tagname>`: push tag to remote
 
-`git config alias.{cmd} "long command"
+`git config alias.{cmd} "long command"`
 
 `HEAD`: pointer to the local branch you're currently on
 
@@ -78,6 +78,6 @@ git diff shows only unstaged changes
 
 `git clone -o "origin name"`: clone repository with "origin name" as wrigin name
 
-`git push origin <localbranchname>:<remotebranchname>
+`git push origin <localbranchname>:<remotebranchname>`
 
 `git config --global credential.helper cache`: set up credential cache
